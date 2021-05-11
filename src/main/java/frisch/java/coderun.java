@@ -18,7 +18,7 @@ import java.io.IOException;
 @ComponentScan("frisch.java")
 @Import({WebSecurityConfig.class, SwaggerConfig.class})
 public class coderun {
-
+//hello there it's an easter egg
     public static void main(String[] args) throws IOException {
         SpringApplication.run(coderun.class, args);
     }
