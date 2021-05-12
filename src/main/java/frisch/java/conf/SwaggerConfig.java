@@ -31,8 +31,8 @@ public class SwaggerConfig {
                 "CodeBot web API",
                 "Java web assignment system",
                 null,
-                "luke.czapla@frisch.org",
-                "2016",
+                "luke.czapla@frisch.org, matthew.rodriguez@frisch.org ",
+                "2016, 2021",
                 null
         );
     }
