@@ -1,4 +1,4 @@
 target/
 logs/
-.DS_store
+.DS_store/
 .idea/
