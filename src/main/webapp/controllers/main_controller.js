@@ -9,7 +9,7 @@ var google = null;
 var myresult;
 var mydataresult;
 
-angular.module('CodeBotApp', ['ngSanitize'])
+angular.module('APCompSci', ['ngSanitize'])
   .controller('FrontCtrl', ['$http', '$scope', '$sce', function($http, $scope, $sce) {
 
     var self = this;
